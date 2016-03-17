@@ -2,8 +2,7 @@
 # UNIVERSIDAD LATINOAMERICANA DE CIENCIA Y TECNOLOGÍA
 # FACULTAD DE INGENIERÍA
 # ESCUELA DE INGENIERÍA INFORMÁTICA
-# HACKER DOJO (CENTROS DE PROGRAMACIÓN Y MATEMÁTICA)
-# @AUTHOR: Pedro Guzmán (pguzmanb498@ulacit.ed.cr)
+# TUTOR: Pedro Guzmán (pguzmanb498@ulacit.ed.cr)
 # ---------------------------------------------------------
 # Definición de tripleta pitagórica:
 # Una tripleta pitagórica son tres números que cumplen las
